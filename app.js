@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var createError = require('http-errors');
 var express = require('express');
 var path = require('path');
@@ -6,6 +7,16 @@ var logger = require('morgan');
 
 var indexRouter = require('./app_server/routes/index');
 var usersRouter = require('./app_server/routes/users');
+=======
+const createError = require('http-errors');
+const express = require('express');
+const path = require('path');
+const cookieParser = require('cookie-parser');
+const logger = require('morgan');
+
+const indexRouter = require('./app_server/routes/index');
+const usersRouter = require('./app_server/routes/users');
+>>>>>>> 33fc5bd6a9b1ed6a7cf15a9bfe302e0b85c77a67
 
 var app = express();
 
