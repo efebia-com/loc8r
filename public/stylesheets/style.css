@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
-
-a {
-  color: #00B7FF;
-=======
 @import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
 
 h1, h2, h3, h4, h5, h6 {
@@ -100,5 +91,4 @@ body {
   font-family: "Cabin", Arial, sans-serif;
   color: #fff;
   background-color: #108a93;
->>>>>>> 33fc5bd6a9b1ed6a7cf15a9bfe302e0b85c77a67
 }
